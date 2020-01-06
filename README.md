@@ -1,14 +1,14 @@
-# rollup-starter-ts
+# is-pass
 
-To fast start a typescript library.  
-
+检查输入工具类.  
+ 
 ## Getting started
 
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/zenoslin/rollup-starter-ts.git
-cd rollup-starter-ts
+git clone https://github.com/zenoslin/is-pass.git
+cd is-pass
 npm install
 ```
 
